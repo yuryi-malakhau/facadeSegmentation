@@ -1,0 +1,9 @@
+Various
+Building
+Car
+Door
+Pavement
+Road
+Sky
+Vegetation
+Window
